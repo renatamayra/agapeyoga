@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  /*
+  background-image: url(./assets/bg-mobile.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+  */
+
+  /*background: color image repeat position/size*/
+  background: url(./assets/bg-mobile.jpg) no-repeat top center/cover;
+}
+
+/* o * é o seletor universal, significa que ele vai aplicar para todos os elementos dentro do body*/
+body *{
+  font-family: 'Inter', sans-serif;
+  color: #ffffff;
+}
+
+#container {
+  width: 360px;
+  margin: 56px auto 0px;
+  border: 1px solid purple;
+}
+
+#profile {
+  text-align: center;
+  padding: 24px;
+  margin-top: 8px;
+}
+
+#profile img{
+  width: 112px;
+}
+
+#profile p {
+  font-weight: 500;
+  line-height: 24px;
+}
+
+/* links */
+ul {
+  list-style: none;
+  border: 1px solid yellow;
+}
+
+ul li a{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  padding: 16px 24px;
+
+  text-decoration: none;
+  font-weight: 500;
+}
