@@ -37,6 +37,7 @@ body {
 
   /*background: color image repeat position/size*/
   background: var(--bg-url) no-repeat top center/cover;
+  height: 100vh;
 }
 
 /* o * é o seletor universal, significa que ele vai aplicar para todos os elementos dentro do body*/
@@ -176,4 +177,17 @@ ul li a:hover {
     padding: 24px 0;
     text-align: center;
     font-size: 14px;
+  }
+
+  /* media querier: ela só funciona se no html tiver a linha 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
+  ESSA REGRA FAZ O BACKGROUND MUDAR A PARTIR DE UM DETERMINADO MOMENTO*/
+  @media (min-width: 700px) {
+    :root {
+      --bg-url: url(./assets/bg-desktop.jpg);
+    }
+
+    .light {
+      --bg-url: url(./assets/bg-desktop-light.jpg);
+    }
   }
