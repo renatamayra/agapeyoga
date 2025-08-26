@@ -38,6 +38,7 @@ body {
   /*background: color image repeat position/size*/
   background: var(--bg-url) no-repeat top center/cover;
   height: 100vh;
+  overflow: hidden; /*esconde a rolagem*/
 }
 
 /* o * é o seletor universal, significa que ele vai aplicar para todos os elementos dentro do body*/
