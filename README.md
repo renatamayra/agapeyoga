@@ -17,12 +17,6 @@ Aqui, uni o aprendizado em programação com a filosofia do Yoga, trazendo harmo
   <img alt="Preview do projeto Agape Yoga" src=".github/preview.jpg" width="100%">
 </p>
 
-<br>
-
-<p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -43,11 +37,7 @@ Neste repositório, o foco está no **modo dark/light** e na troca dinâmica de 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ---
 
