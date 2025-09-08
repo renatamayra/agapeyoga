@@ -13,7 +13,7 @@ Aqui, uni o aprendizado em programação com a filosofia do Yoga, trazendo harmo
 </p>
 
 <p align="center">
-  <img alt="Preview do projeto Agape Yoga" src=".github/preview.jpg" width="100%">
+  <img alt="Preview do projeto Agape Yoga" src=".github/preview.jpg" width="50%">
 </p>
 
 ## 🚀 Tecnologias
