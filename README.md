@@ -1,7 +1,7 @@
-<h1 align="center"> 🌿 Agape Yoga </h1>
+<h1 align="center"> 🌿 Agape Rhythm </h1>
 
 <p align="center">
-Projeto de desenvolvimento web inspirado no meu propósito principal: o <strong>Agape Yoga</strong>, 
+Projeto de desenvolvimento web inspirado no meu propósito principal: o <strong>Agape Rhythm</strong>, 
 um espaço de autoconhecimento, equilíbrio e conexão. 
 Aqui, uni o aprendizado em programação com a filosofia do Yoga, trazendo harmonia entre tecnologia e bem-estar.
 </p>
@@ -13,7 +13,7 @@ Aqui, uni o aprendizado em programação com a filosofia do Yoga, trazendo harmo
 </p>
 
 <p align="center">
-  <img alt="Preview do projeto Agape Yoga" src=".github/preview.jpg" width="50%">
+  <img alt="Preview do projeto Agape Rhythm" src=".github/preview.jpg" width="50%">
 </p>
 
 ## 🚀 Tecnologias
@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O **Agape Yoga** é um projeto em constante evolução, que integra meus estudos de programação 
+O **Agape Rhythm** é um projeto em constante evolução, que integra meus estudos de programação 
 ao universo do Yoga. A proposta é criar um espaço digital que represente a essência do Agape Yoga, 
 mostrando como a tecnologia pode ser aplicada em projetos de autoconhecimento e espiritualidade.
 
